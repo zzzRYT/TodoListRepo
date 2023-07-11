@@ -6,9 +6,9 @@
  - 수정
  - aws RDS db연동
 
-# 앞으로 추가 할 것
- # FrontEnd
-React공부 후 다시 모듈화 하기
+# 할 일
+- FrontEnd
+ - React공부 후 다시 모듈화 하기
 
-# BackEnd
+- BackEnd
  - User정보 받아서 로그인 기능 구현해 보기
